@@ -1,5 +1,5 @@
 # ReactTailwindcss
-Boilerplate: [Vite](https://github.com/vitejs/vite), [React](https://reactjs.org/), [Tailwindcss](https://https://tailwindcss.com//), 
+Boilerplate: [Vite](https://github.com/vitejs/vite), [React](https://reactjs.org/), [Tailwindcss](https://https://tailwindcss.com/), 
 
 ## Installation
 
